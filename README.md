@@ -5,6 +5,5 @@ Spring Framework com Maven e Thymeleaf
 MySQL
 
 # PRD
-Heroku
-PostgreSql
-https://enigmatic-citadel-19616.herokuapp.com/login
+PostgreSql  
+Heroku https://enigmatic-citadel-19616.herokuapp.com/login
