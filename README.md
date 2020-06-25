@@ -1,5 +1,5 @@
 # gerenciador-tarefas
-Spring Framework com Maven e Thymeleaf
+Spring Boot Framework com Maven e Thymeleaf
 
 # Local
 MySQL
